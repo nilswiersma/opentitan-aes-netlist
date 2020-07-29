@@ -1,0 +1,4 @@
+[submodule "submodules/opentitan"]
+	path = submodules/opentitan
+	url = https://github.com/nilswiersma/opentitan.git
+	branch = aes_verilator_testbench
