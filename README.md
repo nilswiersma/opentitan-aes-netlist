@@ -1,3 +1,9 @@
+tools used:
+
+- sv2v
+- yosys
+- verilator
+
 # AES testbench
 
 Build
