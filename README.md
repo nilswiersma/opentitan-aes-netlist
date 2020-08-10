@@ -4,6 +4,8 @@ tools used:
 - yosys
 - verilator
 
+To also pull in opentitan, be sure to use `git clone --recursive ...`
+
 # AES testbench
 
 Build
